@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Database Management, Frontend Development, UI/UX and Machine Learning
 - 📫 How to reach me: [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Flinkedin-logo%2F&psig=AOvVaw1nXdoAdkWSraawQzSW3Sws&ust=1624185522877000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLikktzAo_ECFQAAAAAdAAAAABAD" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.logodownload.org%2Finstagram-logo%2F&psig=AOvVaw0C7MMMwX9VhoA8OeGCGGPU&ust=1624185482427000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKD_3MjAo_ECFQAAAAAdAAAAABAD" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://i.pinimg.com/564x/a2/5f/4f/a25f4f58938bbe61357ebca42d23866f.jpg" />][instagram]
   <br> 
   <img alt="linkedin.com" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /> [website]
 - 😄 Pronouns: she/her
