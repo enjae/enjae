@@ -7,7 +7,7 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on exploring the concepts of The Blockchain ⛓️
-- 🌱 I’m currently learning Blockchain and related like Ethereum, Tezos , Smart contracts, Web3 and more :)
+- 🌱 I’m currently learning Blockchain and related technologies like Ethereum, Tezos , Smart contracts, Web3 and more :)
 - 👯 I’m looking to collaborate on anything related to blockchain and web development
 - 🤔 I’m looking for help with learning new Blockchain tools
 - 💬 Ask me about Database Management, Frontend Development, UI/UX and Machine Learning
