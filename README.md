@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with learning new Blockchain tools
 - 💬 Ask me about Database Management, Frontend Development, UI/UX and Machine Learning
 - 📫 How to reach me:
-- <br> 
-  [<img alt="linkedin.com" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][website]
+  <br> 
+  <img alt="linkedin.com" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /> [website]
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to Dance 💃 and make Illustrations  🎨
 
