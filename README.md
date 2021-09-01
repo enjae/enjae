@@ -1,6 +1,6 @@
 ## ya Enjae <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### I'm a Computer Science and Engineering student at National Institute of Technology Jalandhar
+### 👩🏻‍💻 I'm a Computer Science and Engineering student at National Institute of Technology Jalandhar
 
 ##### CURRENTLY
 - 🎇Creating simple and beautiful applications.
