@@ -1,9 +1,10 @@
 ## ya Enjae <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### 👩🏻‍💻 I'm a Computer Science and Engineering student at National Institute of Technology Jalandhar
-<!-- <br>
- [See my Website](https://enjae.netlify.app) 
-<br> -->
+<br>
+<!--  [See my Website](https://enjae.netlify.app)  -->
+ [Visit my webiste](https://enjae.netlify.app)
+<br> 
 
 ##### CURRENTLY
 - 🎇Creating simple and beautiful applications.
