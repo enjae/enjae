@@ -18,11 +18,10 @@
 - 🌱 Learning about open source and blockchain.
 - 👧 Pronouns: she/her 
 - ⚡ Fun fact: I like to Dance 💃 and make Illustrations 🎨
-
 <!-- 
-<img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=enjae&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/> -->
-<!-- <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=enjae/"> -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enjae&hide=TeX&layout=compact) -->
+<img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=enjae&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=enjae/">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enjae&hide=TeX&layout=compact) -->
 
 <hr>
 
