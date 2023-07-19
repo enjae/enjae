@@ -3,7 +3,7 @@
   &emsp;I enjoy turning abstract ideas into tangible solutions through coding. </br>
   &emsp;On a quest to expand my programming knowledge and skills in diverse tools and frameworks.
  - SDE at Samsung(SRIB)
- - CSE NITJ'23
+ - Computer Science and Engineering NITJ'23
  - Pronouns: She/her.
 
 
