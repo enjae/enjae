@@ -25,5 +25,5 @@ I'm open to collaboration and always excited about working with other developers
 ### 📫 Get in Touch
 
 - **LinkedIn:** [linkedIn/nandinijaryal](https://www.linkedin.com/in/nandinijaryal/)
-- **Email:** (jarialnandini1911@gmail.com)
+- **Email:** [gmail/nandinijaryal](jarialnandini1911@gmail.com)
 - **Portfolio:** [enjae.portfolio](https://enjae.netlify.app/)
