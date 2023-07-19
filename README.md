@@ -1,13 +1,15 @@
 
-### 👋 Hello there! I'm Nandini Jaryal
+### Hello there! I'm Nandini Jaryal 🦹‍♀️
   &emsp;I enjoy turning abstract ideas into tangible solutions through coding. </br>
   &emsp;On a quest to expand my programming knowledge and skills in diverse tools and frameworks.
  - SDE at Samsung(SRIB)
  - Computer Science and Engineering NITJ'23
  - Pronouns: She/her.
 
+I'm always open to collaboration and always excited about working with other developers on meaningful projects. </br>
+**Connect w/m on **LinkedIn** [@linkedIn/nandinijaryal](https://www.linkedin.com/in/nandinijaryal/)** 📫
 
-### 💻 Tech Stack
+#### 💻 Tech Stack
 
 - **Languages:** C++, JavaScript (Node.js, React.js, TypeScript), Python, Java
 - **Backend Development:** Express.js, Django, Flask
@@ -17,13 +19,3 @@
 - **Machine Learning:** Scikit-learn, TensorFlow (beginner level)
 - **DevOps:** Docker, Kubernetes (in progress)
 
-
-### 🤝 Let's Collaborate
-
-I'm open to collaboration and always excited about working with other developers on meaningful projects. If you have a cool idea or a project that aligns with my interests, feel free to reach out! Together, we can build something awesome.
-
-### 📫 Get in Touch
-
-- **LinkedIn:** [linkedIn/nandinijaryal](https://www.linkedin.com/in/nandinijaryal/)
-- **Email:** [gmail/nandinijaryal](jarialnandini1911@gmail.com)
-- **Portfolio:** [enjae.portfolio](https://enjae.netlify.app/)
